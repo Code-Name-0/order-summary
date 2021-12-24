@@ -65,7 +65,7 @@ body .main-card .card-body .description {
   color: gray;
 }
 
-body .main-card .card-body .description span {
+body .main-card .card-body .description h1 {
   display: block;
   font-weight: 900;
   margin: 20px;
